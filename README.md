@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Olá! Eu sou o Fernando Frare Vieira 👋</h1>
+  <h1>Olá! Eu sou o Fernando👋</h1>
 </div>
 
 <div id="bio" align="center">
