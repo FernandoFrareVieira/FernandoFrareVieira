@@ -11,7 +11,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando o 5º período de Engenharia da Computação na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
-- 💻 Foco em **Sistemas Embarcados**, **Engenharia de Software** e **Inteligência Artificial**.
+- 💻 Foco em **Sistemas Embarcados**, **Engenharia de Software** e **Programação Competitiva**.
 - 💬 Aberto para conversar sobre tecnologia, projetos e oportunidades de estágio!
 
 ---
